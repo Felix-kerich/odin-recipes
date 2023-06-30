@@ -1,0 +1,26 @@
+body{
+    background: url('resource/background.jpg');
+    background-size: cover;
+    background-position:center;
+    height: 95vh;
+}
+.fom form{
+margin-left: 800px;
+padding: 50px;
+width: 400px;
+height: 500px;
+background-color: aquamarine;
+
+}
+.fom form{
+    font-size: 25px;
+}
+.fom form input{
+    width: 280px;
+    background-color: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+}
+

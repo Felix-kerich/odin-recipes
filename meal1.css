@@ -1,0 +1,21 @@
+.image1 img{
+    width: 100px;
+    height: 100px;
+    margin-left: 50%;
+}
+.description{
+    height: 500px;
+    width: 900px;
+    background: url('resource/background.jpg');
+    text-align:justify;
+    font-size: 30px;
+    color: rgb(7, 162, 48);
+    margin-left: 500px;
+
+}
+p a {
+    text-align: center;
+    margin-left: 50%;
+    font-size: 30px;
+    font-style: italic;
+}
