@@ -4,23 +4,31 @@ body{
     background-position:center;
     height: 95vh;
 }
-.fom form{
-margin-left: 800px;
-padding: 50px;
-width: 400px;
-height: 500px;
-background-color: aquamarine;
-
-}
-.fom form{
-    font-size: 25px;
-}
-.fom form input{
-    width: 280px;
-    background-color: transparent;
-    border-top: none;
-    border-left: none;
-    border-right: none;
+.fom {
+    width: 500px;
+    height: 600px;
+    margin-left: 40%;
+    text-align: center;
+    color: blue;
+    padding-top: 200px;
+    font-size: 30px;
+    background-color: aqua;
+    border-radius: 100px;
     
-}
-
+    }
+    .fom input{
+        width: 240px;
+        height: 35px;
+        background: transparent;
+        border-radius: 50px;
+        font-size: 15px;
+        text-align: center;
+        letter-spacing: 1px;
+        margin-top: 30px;
+        font-family: sans-serif;
+    }
+    .fom form button{
+        background: transparent;
+        border: none;
+        
+    }

@@ -4,14 +4,52 @@
     margin-left: 50%;
 }
 .description{
-    height: 500px;
-    width: 900px;
+    height: 600px;
+    width: 1000px;
     background: url('resource/background.jpg');
     text-align:justify;
     font-size: 30px;
     color: rgb(7, 162, 48);
     margin-left: 500px;
 
+}
+
+.description .recipe{
+    
+    width:800px;
+    height: 300px;
+    color: blue;
+    font-size: 10px;
+    display: flex;
+}
+.description .recipe .rec h1{
+    color:brown;
+    font-weight: 50px;
+    
+
+}
+.description .recipe .ingred h1{
+    color:brown;
+    font-weight: 50px;
+
+}
+.description .recipe .rec{
+    background-color: aqua;
+    width: 500px;
+    height: 300px;
+    border-radius: 50px;
+
+}
+.description li{
+    font-style: italic;
+}
+.description .recipe .ingred{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    background-color: aqua;
+    margin-left: 30px;
+    border-radius: 50px;
 }
 p a {
     text-align: center;
